@@ -20,6 +20,7 @@ Show metadata from a file:
 dcraw -i -v ~/Pictures/2017/2017-02-04/MR2A0699.CR2
 
 ImageMagik/dcraw Docker image:
+https://imagemagick.org/script/install-source.php
 e.g.: https://github.com/dooman87/imagemagick-docker/blob/master/Dockerfile
 
 Export Metadata commercial plugin:
